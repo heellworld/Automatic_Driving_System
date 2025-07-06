@@ -78,7 +78,7 @@ python drive_realtime.py --approach cnn --interface simulator
 ├── 🧪 test_model.py          # Testing script
 ├── 🚗 drive_realtime.py      # Real-time driving
 ├── 📊 Data/                  # Training dataset (~28K images)
-└──  🎮 beta_simulator_windows/ # Unity simulator
+└──  🎮 beta_simulator.exe    # Unity simulator
 ```
 
 ## ⚙️ Configuration
