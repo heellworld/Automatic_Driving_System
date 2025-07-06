@@ -1,0 +1,34 @@
+# Core ML and Computer Vision
+tensorflow>=2.8.0
+keras>=2.8.0
+opencv-python>=4.5.4
+opencv-contrib-python>=4.5.4
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+Pillow>=8.3.0
+
+# Data processing
+pandas>=1.3.0
+
+# Web and networking
+Flask>=2.0.0
+python-socketio>=5.0.0
+eventlet>=0.33.0
+websockets>=10.0
+
+# Async support
+asyncio-mqtt>=0.11.0
+
+# Development and testing
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Utilities
+tqdm>=4.62.0
+argparse
+logging
+
+# Optional GPU support (uncomment if using GPU)
+# tensorflow-gpu>=2.8.0 
